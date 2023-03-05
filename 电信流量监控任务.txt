@@ -1,0 +1,8 @@
+名称电信流量监控
+
+命令/脚本
+
+task raw_Telecom_Tele_Cellular_Auto.js
+
+定时规则
+0 0/180 * * * ?

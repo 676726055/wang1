@@ -1,0 +1,68 @@
+青龙面板依赖安装（依赖管理-新建依赖-自动拆分）
+
+
+NodeJs依赖
+
+ts-node
+depend
+ds
+global-agent
+jsdom
+date-fns
+ts-md5
+requests
+jieba
+npm
+node-jsencrypt
+tough-cookie
+-g npm
+jsdom -g
+js-base64
+fs
+json5
+prettytable
+cjs
+tslib
+@types/node
+png-js
+typescript
+crypto-js
+require
+upgrade pip
+axios
+form-data
+common
+qs
+dotenv
+ws@7.4.3
+ql
+node-telegram-bot-api
+crypto -g
+-g typescipt
+moment
+
+Python3依赖
+
+pytz
+typescript
+ping3
+httpx
+canvas
+PyExecJS
+success
+--upgrade pip
+jieba
+pip
+requests
+
+Linux依赖（安装失败的忽略）
+
+bizMsg
+gcc
+magic
+python-devel
+bizCode
+aiohttp
+lxml
+bizMsg
+aiohttp
