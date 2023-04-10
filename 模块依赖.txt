@@ -19,7 +19,6 @@ requests
 node-jsencrypt
 json5
 require
-qlqs
 modules
 moment
 fs
@@ -29,7 +28,6 @@ ts-md5
 form-data
 jsrsasign
 node-telegram-bot-api
-crypto-g
 ts-node
 cjs
 png-js
